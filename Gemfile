@@ -64,3 +64,16 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "pry", "~> 0.16.0"
+gem "rspec", "~> 3.13"
+gem "dotenv-rails", "~> 3.2"
+gem "stripe", "~> 19.6"
+
+gem "pastel", "~> 0.8.0"
+gem "tty-table", "~> 0.3.0"
+
+gem "rubocop", "~> 1.91"
+
+gem "sidekiq", "~> 8.1"
+gem "redis", "~> 6.0"
