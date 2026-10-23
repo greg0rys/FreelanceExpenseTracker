@@ -65,7 +65,7 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "pry", "~> 0.16.0"
+gem "pry", "~> 0.16.1"
 gem "rspec", "~> 3.13"
 gem "dotenv-rails", "~> 3.2"
 gem "stripe", "~> 19.6"
