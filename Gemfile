@@ -73,7 +73,7 @@ gem "stripe", "~> 19.6"
 gem "pastel", "~> 0.8.0"
 gem "tty-table", "~> 0.3.0"
 
-gem "rubocop", "~> 1.91"
+gem "rubocop", "~> 1.92"
 
 gem "sidekiq", "~> 8.1"
 gem "redis", "~> 6.0"
